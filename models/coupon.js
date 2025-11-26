@@ -37,11 +37,10 @@ const couponSchema = new mongoose.Schema({
 });
 
 // Auto-generate 6-character coupon code before saving
-couponSchema.pre("save", function (next) {
+couponSchema.pre("save", async function () {
   if (!this.code) {
     this.code = Math.random().toString(36).substring(2, 8).toUpperCase();
   }
-  next();
 });
 
 const Coupon = mongoose.model("Coupon", couponSchema);
