@@ -157,6 +157,12 @@ Content-Type: application/json
 
 ### Prerequisites
 
+#### For Docker (Recommended)
+
+- Docker and Docker Compose
+
+#### For Local Development
+
 - Node.js (v14 or higher)
 - MongoDB (v4.4 or higher)
 - npm or yarn package manager
@@ -177,6 +183,30 @@ npm install
 ### 3. Database Configuration
 
 No need to configure , set up remote demo db
+
+### 4. Running the Application
+
+#### Option 1: Using Docker (Recommended)
+
+```bash
+# Build and run with Docker Compose
+docker compose up
+
+# Or run in detached mode
+docker compose up -d
+
+# To stop the application
+docker compose down
+```
+
+The application will be available at `http://localhost:3000`
+
+#### Option 2: Local Development
+
+```bash
+# Start the application
+npm start
+```
 
 ### Test Coupon Creation
 
