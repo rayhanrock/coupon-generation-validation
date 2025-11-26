@@ -23,8 +23,8 @@ RUN mkdir -p logs && chown -R nodejs:nodejs logs
 # Change ownership of the app directory to the nodejs user
 RUN chown -R nodejs:nodejs /usr/src/app
 
-# Switch to the non-root user
-USER nodejs
+# Stay as root user to avoid permission issues with volume mounts
+USER root
 
 # Expose the port the app runs on
 EXPOSE 3000

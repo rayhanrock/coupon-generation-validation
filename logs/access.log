@@ -41,3 +41,4 @@
 26/11/2025 5:06:11 pm ::1 POST /api/coupons/redeem 200 324.150 ms PostmanRuntime/7.37.3
 26/11/2025 5:06:12 pm ::1 POST /api/coupons/redeem 400 144.683 ms PostmanRuntime/7.37.3
 26/11/2025 5:06:14 pm ::1 POST /api/coupons/redeem 400 145.399 ms PostmanRuntime/7.37.3
+26/11/2025 5:44:14 pm ::ffff:172.19.0.1 GET / 200 4.527 ms curl/7.81.0
