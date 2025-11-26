@@ -95,7 +95,7 @@ POST /api/coupons/user-specific
 Content-Type: application/json
 
 {
-  "user_id": "507f1f77bcf86cd799439011",
+  "user_id": "6926924c68d96e15e17d058e",
   "discount_value": 10.00,
   "discount_type": "PERCENTAGE",
   "created_by": "admin_user"
@@ -127,7 +127,7 @@ Content-Type: application/json
 
 {
   "code": "ABC123",
-  "user_id": "507f1f77bcf86cd799439011"
+  "user_id": "6926924c68d96e15e17d058e"
 }
 ```
 
@@ -138,8 +138,8 @@ POST /api/coupons/redeem
 Content-Type: application/json
 
 {
-  "code": "ABC123",
-  "user_id": "507f1f77bcf86cd799439011",
+  "code": "0LM5GE",
+  "user_id": "6926924c68d96e15e17d058e",
   "order_id": "order_12345"
 }
 ```
