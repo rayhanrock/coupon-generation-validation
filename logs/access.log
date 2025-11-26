@@ -1,0 +1,12 @@
+25/08/2025 11:37:26 ::1 GET / 304 3.682 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+25/08/2025 11:38:41 am ::1 GET / 304 3.924 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+25/08/2025 11:39:36 am ::1 GET / 304 6.896 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+25/08/2025 11:44:37 am ::1 GET / 304 4.439 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+27/08/2025 8:19:56 pm ::1 GET / 304 0.846 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+31/08/2025 12:00:06 pm ::1 GET / 304 4.842 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+26/11/2025 10:12:35 am ::1 GET / 200 13.017 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+26/11/2025 10:12:36 am ::1 GET /favicon.ico 404 4.455 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+26/11/2025 11:13:35 am ::1 GET / 304 9.833 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+26/11/2025 11:37:48 am ::1 GET / 304 10.181 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+26/11/2025 11:37:57 am ::1 GET /users 400 4.095 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+26/11/2025 11:38:20 am ::1 GET /users 201 130.566 ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
